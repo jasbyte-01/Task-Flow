@@ -1,2 +1,11 @@
-# Task-Flow
-TaskFlow is a full stack task management app built with Angular and ASP.NET Core. It features authentication, role-based access, task organization with projects and boards, real-time updates via SignalR, and a dashboard for tracking progress.
+# 📌 TaskFlow – Task Management App  
+
+A full-stack task management application built with **Angular** (frontend) and **ASP.NET Core** (backend).  
+
+## Features  
+
+- 🔐 User authentication & role-based access  
+- ✅ Create, update, and organize tasks into projects/boards  
+- 🔄 Real-time updates with SignalR  
+- 📊 Dashboard with progress tracking  
+- ☁️ Deployed with Docker & CI/CD  
