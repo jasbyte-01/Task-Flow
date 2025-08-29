@@ -9,3 +9,10 @@ A full-stack task management application built with **Angular** (frontend) and *
 - 🔄 Real-time updates with SignalR  
 - 📊 Dashboard with progress tracking  
 - ☁️ Deployed with Docker & CI/CD  
+
+## Workflow
+- The `main` branch is protected, direct pushes are not allowed.  
+- All changes must go through a Pull Request (PR).  
+- Required checks before merging:
+  - ✅ Build succeeds  
+  - ✅ All unit/integration tests pass   
